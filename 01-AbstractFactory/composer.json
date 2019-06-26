@@ -1,0 +1,9 @@
+{
+    "name": "Adapter Pattern",
+    "description": "Adapter Pattern Implementation",
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src"
+        }
+    }
+}
