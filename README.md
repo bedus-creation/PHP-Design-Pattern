@@ -12,4 +12,10 @@
 
 # Implemented
 - **Creational patterns**
-  - Abstract Factory
+  [x] Factory
+  [x] Prototype 
+- **Structural Patterns**
+  [ ] Adapter
+  [ ] Bridge
+  [ ] Filter
+  [ ] Compo 
