@@ -11,11 +11,11 @@
 * **Behavioral patterns** take care of effective communication and the assignment of responsibilities between objects.
 
 # Implemented
-- **Creational patterns**
-  [x] Factory
-  [x] Prototype 
+- **Creational patterns**  
+  [x] Factory  
+  [x] Prototype  
 - **Structural Patterns**
-  [ ] Adapter
-  [ ] Bridge
-  [ ] Filter
-  [ ] Compo 
+  [ ] Adapter  
+  [ ] Bridge  
+  [ ] Filter  
+  [ ] Composite   
