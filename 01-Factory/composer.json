@@ -1,5 +1,5 @@
 {
-    "name": "Adapter Pattern",
+    "name": "aammui/adapter-pattern",
     "description": "Adapter Pattern Implementation",
     "autoload": {
         "psr-4": {
